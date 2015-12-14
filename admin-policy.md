@@ -32,7 +32,7 @@ This posts documents how the HX group will be run and administered. The policies
 
 Note that there are many tasks such as Hackbot administration, Github projects, etc. that do not need to be solely managed by admins.
 
-## Post deletion
+## Deletion of Posts
 
 We believe that posts should only be deleted in a few specific cases. First of all, any spam from hacked accounts or bots will be deleted. Second, any posts violating Facebook's content policies will also be deleted. Finally, content can be deleted by an admin if the content is harassing a *specific* user, and that user requests that the content be removed. Note that generally objectionable content that does not target a *specific* user will not be removed (unless it violates Facebook's content policies), and will only be closed instead.
 
@@ -49,4 +49,6 @@ The purpose of this process is both to give users a second chance, and to have a
 
 ## GitHub
 
-[TODO: Ian, fill this in]
+Anyone can be given read access to our GitHub organization `wearehx`. The current administration team is always given Owner access on the organization. Other users should retain their previous privileges, but the current administration team has the final say and can make modifications as needed.
+
+Projects must be approved by anyone with Owner access and will be given a team on the organization, if needed. Projects must have a `CONTRIBUTING.md` and `README.md` file to document what the project is and how to contribute. Incomplete projects should be removed after a reasonable amount of time; inactive projects should be removed only if the repository serves no purpose to anyone, even outside the group.
