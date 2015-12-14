@@ -11,18 +11,27 @@ This posts documents how the HX group will be run and administered. The policies
 - An admin can serve for a maximum of two consecutive terms, but there is no maximum limit on the number of terms an admin can serve for
 - All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a Github commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public.
 
-## Electing Admins
+## Election of Admins
 
-- The group will have a maintainer for a voting web interface.
-  - The web interface maintainer can be removed and replaced via an unanimous vote among the current elected admins.
-  - The web interface maintainer is responsible for producing the results of the election for each cycle, ensuring the voting application is secure, and maintaining its reliability. 
-  - The voting system will securely generate a v4 UUID for each user after they cast their first vote. When the user votes, their UUID will be stored along with their vote. When the election concludes, the UUID and vote will be published to allow auditing of the results.
-  - A future iteration of this system/document may not be able to connect UUIDs to Facebook profiles, however it is currently stored to facilitate an audit log of votes if needed. The system will never publish the connection of UUIDs to profiles.
 - The current admin team will determine how many admins are elected for the next term. This number must be above zero and less than ten.
 - 14 days before the end of a term, the web interface will allow candidates to mark themselves as running. 
 - 7 days before the end of a term, the web interface will allow group members to vote for a candidate. 
 - Votes will stop being accepted after 11:59PM GMT on the day the term ends. The current admins will use the voting result to add/remove themselves, if needed.
 - The voting system will publish a freely downloadable list of UUIDs and their vote after votes stop being accepted.
+
+### Voting
+- Votes are counted via a voting web interface.
+  - In the event the web interface becomes inaccessible while voting is in progress, the voting period and moderation term may be extended to the nearest hour based on the outage length.
+- The group will have one official maintainer for the voting web interface.
+  - The maintainer can be removed and replaced via an unanimous vote among the current elected admins.
+  - The maintainer is responsible for producing the results of the election for each cycle, ensuring the voting application is secure, and maintaining its reliability. 
+    - The maintainer may remove clearly spam candidates, and the current admins may veto any removals.
+- The voting system will not allow non-group members to vote; it may additionally deny some users the ability to vote if the user's account appears fraudulent.
+- The voting system will securely generate a v4 UUID for each user after they cast their first vote. When the user votes, their UUID will be stored along with their vote. When the election concludes, the UUID and vote will be published to allow auditing of the results.
+- Under this model (to be improved in the future), the maintainer is able to access the database linking votes to people, though the integrity of the results is relatively sound.
+
+## Removal of Admins
+Administrators may be removed by an unanimous vote among the other current admins. The current administrators may choose to hold a temporary election or wait until the next election if an administrator is voted out. 
 
 ## Purpose of Administration
 
