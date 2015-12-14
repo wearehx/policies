@@ -13,7 +13,7 @@ This posts documents how the HX group will be run and administered. The policies
 
 ## Election of Admins
 
-- The current admin team will determine how many admins are elected for the next term. This number must be above zero and less than ten.
+- The current admin team will determine how many admins are elected for the next term. 
 - 14 days before the end of a term, the web interface will allow candidates to mark themselves as running. 
   - Candidates must be nominated by three group members via the web interface (after they have marked themselves as running) to be put on the ballot. Each group member can nominate one member per term.
 - 7 days before the end of a term, the web interface will allow group members to vote for a candidate. 
