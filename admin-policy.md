@@ -15,6 +15,7 @@ This posts documents how the HX group will be run and administered. The policies
 
 - The current admin team will determine how many admins are elected for the next term. This number must be above zero and less than ten.
 - 14 days before the end of a term, the web interface will allow candidates to mark themselves as running. 
+  - Candidates must be nominated by three group members via the web interface (after they have marked themselves as running) to be put on the ballot. Each group member can nominate one member per term.
 - 7 days before the end of a term, the web interface will allow group members to vote for a candidate. 
 - Votes will stop being accepted after 11:59PM GMT on the day the term ends. The current admins will use the voting result to add/remove themselves, if needed.
 - The voting system will publish a freely downloadable list of UUIDs and their vote after votes stop being accepted.
@@ -24,7 +25,7 @@ This posts documents how the HX group will be run and administered. The policies
   - In the event the web interface becomes inaccessible while voting is in progress, the voting period and moderation term may be extended to the nearest hour based on the outage length.
 - The group will have one official maintainer for the voting web interface.
   - The maintainer can be removed and replaced via an unanimous vote among the current elected admins.
-  - The maintainer is responsible for producing the results of the election for each cycle, ensuring the voting application is secure, and maintaining its reliability. 
+  - The maintainer is responsible for producing the results of the election for each term, ensuring the voting application is secure, and maintaining its reliability. 
     - The maintainer may remove clearly spam candidates, and the current admins may veto any removals.
   - The maintainer must not run in any election they maintain.
 - The voting system will not allow non-group members to vote; it may additionally deny some users the ability to vote if the user's account appears fraudulent.
