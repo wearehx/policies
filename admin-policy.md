@@ -13,7 +13,16 @@ This posts documents how the HX group will be run and administered. The policies
 
 ## Electing Admins
 
-[TODO: Ian, fill this in]
+- The group will have a maintainer for a voting web interface.
+  - The web interface maintainer can be removed and replaced via an unanimous vote among the current elected admins.
+  - The web interface maintainer is responsible for producing the results of the election for each cycle, ensuring the voting application is secure, and maintaining its reliability. 
+  - The voting system will securely generate a v4 UUID for each user after they cast their first vote. When the user votes, their UUID will be stored along with their vote. When the election concludes, the UUID and vote will be published to allow auditing of the results.
+  - A future iteration of this system/document may not be able to connect UUIDs to Facebook profiles, however it is currently stored to facilitate an audit log of votes if needed. The system will never publish the connection of UUIDs to profiles.
+- The current admin team will determine how many admins are elected for the next term. This number must be above zero and less than ten.
+- 14 days before the end of a term, the web interface will allow candidates to mark themselves as running. 
+- 7 days before the end of a term, the web interface will allow group members to vote for a candidate. 
+- Votes will stop being accepted after 11:59PM GMT on the day the term ends. The current admins will use the voting result to add/remove themselves, if needed.
+- The voting system will publish a freely downloadable list of UUIDs and their vote after votes stop being accepted.
 
 ## Purpose of Administration
 
