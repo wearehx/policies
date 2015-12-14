@@ -6,9 +6,9 @@ This posts documents how the HX group will be run and administered. The policies
 
 ## Management of Administration
 
-- We will increase the number of admins per term as the current admin team sees fit. This will not be based on any ratios (i.e. 1 admin per 500 users), but based on how many bad posts are getting by unmoderated. If all bad posts are caught within some small amount of time (i.e. 30 minutes) of posting, then we have enough admins
-- The length of a term for an admin will be 3 months
-- An admin can serve for a maximum of two consecutive terms, but there is no maximum limit on the number of terms an admin can serve for
+- We will increase the number of admins per term as the current admin team sees fit. This will not be based on any ratios (i.e. 1 admin per 500 users), but based on how many bad posts are getting by unmoderated. If all bad posts are caught within some small amount of time (i.e. 30 minutes) of posting, then we have enough admins.
+- The length of a term for an admin will be 90 days.
+- An admin can serve for a maximum of two consecutive terms, but there is no maximum limit on the number of terms an admin can serve for.
 - All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a Github commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public.
 
 ## Electing Admins
