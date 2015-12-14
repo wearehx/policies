@@ -26,6 +26,7 @@ This posts documents how the HX group will be run and administered. The policies
   - The maintainer can be removed and replaced via an unanimous vote among the current elected admins.
   - The maintainer is responsible for producing the results of the election for each cycle, ensuring the voting application is secure, and maintaining its reliability. 
     - The maintainer may remove clearly spam candidates, and the current admins may veto any removals.
+  - The maintainer must not run in any election they maintain.
 - The voting system will not allow non-group members to vote; it may additionally deny some users the ability to vote if the user's account appears fraudulent.
 - The voting system will securely generate a v4 UUID for each user after they cast their first vote. When the user votes, their UUID will be stored along with their vote. When the election concludes, the UUID and vote will be published to allow auditing of the results.
 - Under this model (to be improved in the future), the maintainer is able to access the database linking votes to people, though the integrity of the results is relatively sound.
