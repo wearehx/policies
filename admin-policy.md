@@ -4,12 +4,20 @@
 
 This posts documents how the HX group will be run and administered. The policies in this document of a common theme of accountability and transparency. We believe that posts should only be deleted under certain circumstances, and all logs of what the admins are doing and discussing should be public.
 
+## Policy Change Approval Process
+
+- The process for changes to this repo should start with either a Github issue, a post in HX Meta, or a conversation with an admin in ##hx-admin.
+- After the initial discussion in one of the above locations, a PR can be made on this repo, either adding a document or modifying a document. The PR text should contain a detailed, well-thought out description of all of the changes and why they are being made. A post should be made in HX Meta about the PR.
+- All discussion should happen on this PR, and on no other mediums. The entire community should participate in this discussion, not just the admins. After discussion has died down, the admins can choose to merge/reject a PR. In either case, if there was any opposition or unaddressed points in the comments, the admins *must* address all points and sides of the argument when merging.
+- Note that formatting, grammar, or simple clarification PRs do not need to go through this process. They can be made as normal PRs against the repo, and an admin can merge them at any time.
+
 ## Management of Administration
 
 - We will increase the number of admins per term as the current admin team sees fit. This will not be based on any ratios (i.e. 1 admin per 500 users), but based on how many bad posts are getting by unmoderated. If all bad posts are caught within some small amount of time (i.e. 30 minutes) of posting, then we have enough admins
 - The length of a term for an admin will be 3 months
 - An admin can serve for a maximum of two consecutive terms, but there is no maximum limit on the number of terms an admin can serve for
-- All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a Github commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public.
+- All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a Github commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public. Ideally, these meetings should occur in the ##hx-admin IRC channel on Freenode.
+- It is *highly* recommended that admins idle on ##hx-admin so that the community can easily have a short discussion or ask questions directly to the admins in a public area, without polluting the main HX group. HX Meta is also alright for this purpose, but an IRC conversation can often provide immediate feedback.
 
 ## Election of Admins
 
@@ -21,6 +29,7 @@ This posts documents how the HX group will be run and administered. The policies
 - The voting system will publish a freely downloadable list of UUIDs and their vote after votes stop being accepted.
 
 ### Voting
+
 - Votes are counted via a voting web interface.
   - In the event the web interface becomes inaccessible while voting is in progress, the voting period and moderation term may be extended to the nearest hour based on the outage length.
 - The group will have one official maintainer for the voting web interface.
@@ -33,6 +42,7 @@ This posts documents how the HX group will be run and administered. The policies
 - Under this model (to be improved in the future), the maintainer is able to access the database linking votes to people, though the integrity of the results is relatively sound.
 
 ## Removal of Admins
+
 Administrators may be removed by an unanimous vote among the other current admins. The current administrators may choose to hold a temporary election or wait until the next election if an administrator is voted out. 
 
 ## Purpose of Administration
