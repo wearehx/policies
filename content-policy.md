@@ -41,7 +41,8 @@ Even if this has been discussed in the past, it’s always great to have an up-t
 - "Saw this neat article about a band that released an album as a Linux Kernel!" http://m.networkworld.com/community/blog/band-releases-album-linux-kernel-module
 - "For those of you who haven’t seen this before, someone just ported "power mode" over to Atom! https://atom.io/packages/activate-power-mode"
 - "I don’t like how MLH handled this issue at a hackathon."
-[TODO: What about social posts, like https://www.facebook.com/groups/1659221770989008/permalink/1706491326262052/? I personally think that posts like this should not go in the group. They should either go in a subgroup for social posts, or go in the ##hx irc channel.]
+- "Anyone else in this group a double major?" or "Hey everyone, my name is X and I just joined to group. Glad to be here!"
+  - These posts are categorized as "social posts", and are off topic for this group. ##hx on IRC is a better place for social posts.
 
 Note that discussions about the way the group is being run should be posted in HX Meta. Please be civil with your comments.
 
@@ -71,15 +72,15 @@ If you’ve got a hack or project you want to show off, AWESOME!
 - "Can someone recommend me a good pair of headphone?"
 -- No.
 - "Hi! I just got an offer from two different companies and here’s my really specific situation and what should I do?"
---Ask in [TODO: there’s a group for this, right?]
-[TODO: Is politics off topic? I can see many forms of bad politics post in this group, i.e. "Donald Trump said blah", but there can be many forms of good post, i.e. "There’s a vote on this net neutrality law tonight. Here’s an article explaining what’s going on".]
+  - Ask in [TODO: there’s a group for this, right?]
+- Politics is on topic, but *only* if it is related to tech. For example, if a politician makes racist comments, that is off-topic for this group. While topics like that are important to discuss, there are many other outlets for it to be discussed. A group for hacking and tech related topics is not one of them. An example of an on-topic post about politics would be: "There’s a vote on this net neutrality law tonight. Here’s an article explaining what’s going on".
 
 ### Don’t use HX as a Tech Support Forum
 
 Don’t post something that is readily available online. HX is not a tech support forum, nor is it the place to go if StackOverflow gives you a negative rating.  There are specific subgroups for most technical topics. Also, nobody else wants any of the following questions in their Facebook feed:
 - "How do I use GitHub Pages?"
 - "Can anyone help me with some JavaScript errors I’m getting? Thanks!"
-- "Haas anyone used the Twitter API before? IM me!"
+- "Has anyone used the Twitter API before? IM me!"
 
 ### Don’t forget about the search bar.
 
