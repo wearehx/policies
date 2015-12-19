@@ -6,17 +6,19 @@ This posts documents how the HX group will be run and administered. The policies
 
 ## Policy Change Approval Process
 
-- The process for changes to this repo should start with either a Github issue, a post in HX Meta, or a conversation with an admin in ##hx-admin.
-- After the initial discussion in one of the above locations, a PR can be made on this repo, either adding a document or modifying a document. The PR text should contain a detailed, well-thought out description of all of the changes and why they are being made. A post should be made in HX Meta about the PR.
+- The process for changes to this repo should start with either a GitHub issue, a post in HX Meta, or a conversation with an admin in ##hx-admin.
+- After the initial discussion in one of the above locations, a PR can be made on this repo, either adding a document or modifying a document. The PR text should contain a detailed, well-thought out description of all of the changes and why they are being made. A post should be made in HX Meta announcing the PR.
 - All discussion should happen on this PR, and on no other mediums. The entire community should participate in this discussion, not just the admins. After discussion has died down, the admins can choose to merge/reject a PR. In either case, if there was any opposition or unaddressed points in the comments, the admins *must* address all points and sides of the argument when merging.
 - Note that formatting, grammar, or simple clarification PRs do not need to go through this process. They can be made as normal PRs against the repo, and an admin can merge them at any time.
+- Any changes to a PR before merging should ideally be made by the author of the PR. Pull requests by others to PRs are generally not allowed. The exception to this is when permission is given by the PR author due to the author being unable to make the discussed changes at that time.
+- Note that commits should never be removed from PRs (i.e. through rebasing/squashing), as we would like to preserve the entire history of the PR.
 
 ## Management of Administration
 
-- We will increase the number of admins per term as the current admin team sees fit. This will not be based on any ratios (i.e. 1 admin per 500 users), but based on how many bad posts are getting by unmoderated. If all bad posts are caught within some small amount of time (i.e. 30 minutes) of posting, then we have enough admins
+- We will increase the number of admins per term as the current admin team sees fit. A general indicator of how many admins are needed is to see how long it takes posts to be moderated. If all bad posts are caught within some small amount of time (i.e. 30 minutes) of posting, then we have enough admins
 - The length of a term for an admin will be 3 months
 - An admin can serve for a maximum of two consecutive terms, but there is no maximum limit on the number of terms an admin can serve for
-- All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a Github commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public. Ideally, these meetings should occur in the ##hx-admin IRC channel on Freenode.
+- All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a GitHub commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public. Ideally, these meetings should occur in the ##hx-admin IRC channel on Freenode.
 - It is *highly* recommended that admins idle on ##hx-admin so that the community can easily have a short discussion or ask questions directly to the admins in a public area, without polluting the main HX group. HX Meta is also alright for this purpose, but an IRC conversation can often provide immediate feedback.
 
 ## Election of Admins
@@ -27,6 +29,7 @@ This posts documents how the HX group will be run and administered. The policies
 - 7 days before the end of a term, the web interface will allow group members to vote for a candidate. 
 - Votes will stop being accepted after 11:59PM GMT on the day the term ends. The current admins will use the voting result to add/remove themselves, if needed.
 - The voting system will publish a freely downloadable list of UUIDs and their vote after votes stop being accepted.
+- The election dates for each year will be January 4th, April 4th, July 4th, and October 4th.
 
 ### Voting
 
@@ -51,7 +54,7 @@ Administrators may be removed by an unanimous vote among the other current admin
 - Ban users and deal with ban appeals (see the ban policy for more details).
 - Manage the group name/cover photo and its promotion.
 
-Note that there are many tasks such as Hackbot administration, Github projects, etc. that do not need to be solely managed by admins.
+Note that there are many tasks such as Hackbot administration, GitHub projects, etc. that do not need to be solely managed by admins.
 
 ## Deletion of Posts
 
@@ -64,7 +67,7 @@ All other content will be closed. The reason for this is to provide transparency
 You may be banned by violating any of the rules defined in the content policy. A warning may be given first depending on the which policy was violated and the severity of the violation.
 
 When a user is banned, they have a chance to return to the group. They must make a post in Hackers
-Ban Appeals (not created yet), to argue why they shouldn’t be banned, or to apologize and request that they be re-added. If the user is not apologetic or we (the admins) and the community (jointly) do not agree with the user’s justification for their behavior, they will be banned from Hackers Ban Appeals and no further appealing can take place. Further policy violations in the main group after being re-added will result in immediate ban from both groups with no chance of appealing.
+Ban Appeals (not created yet), to argue why they shouldn’t be banned, or to apologize and request that they be re-added. If the user is not apologetic or we (the admins) and the community (jointly) do not agree with the user’s justification for their behavior, they will be banned from Hackers Ban Appeals and no further appealing can take place. This will not require a formal voting process, and the admins will have final say about the ban. Further policy violations in the main group after being re-added will result in immediate ban from both groups with no chance of appealing.
 
 The purpose of this process is both to give users a second chance, and to have a public space to discuss whether the actions of an admin were justified. Thus, it will not be possible for admins to silently ban individuals for no reasons. If an admin does this and immediately bans the user from the appeals group as well, the admin who did this will be immediately removed from their position as soon as this comes to light in the main group (which can be done by another member).
 
@@ -72,4 +75,4 @@ The purpose of this process is both to give users a second chance, and to have a
 
 Anyone can be given read access to our GitHub organization `wearehx`. The current administration team is always given Owner access on the organization. Other users should retain their previous privileges, but the current administration team has the final say and can make modifications as needed.
 
-Projects must be approved by anyone with Owner access and will be given a team on the organization, if needed. Projects must have a `CONTRIBUTING.md` and `README.md` file to document what the project is and how to contribute. Incomplete projects should be removed after a reasonable amount of time; inactive projects should be removed only if the repository serves no purpose to anyone, even outside the group.
+Projects must be approved by anyone with Owner access and will be given a team on the organization, if needed. Projects must have a `CONTRIBUTING.md` and `README.md` file to document what the project is and how to contribute. Incomplete projects should be removed after a reasonable amount of time; inactive projects should be removed only if the repository serves no purpose to anyone, even outside the group. Ideally, these projects should be transferred to their original owner's GitHub account as opposed to being deleted.
