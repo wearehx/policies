@@ -20,7 +20,7 @@ If a post doesn’t follow the rules, an admin will lock it. If an admin judges 
 
 ## What makes a post great for HX?
 
-Note that just because a post is good, doesn’t mean a thread is good. If a thread devolves into a flamewar, it might be deleted or locked. Also note that reposting an on-topic post makes it a bad post and violates this content policy.
+Keep in mind we'll moderate comments differently from posts; see the comment policy at the end.
 
 ### Announcements, hackathons, news
 
@@ -103,3 +103,15 @@ Vague posts pollute their comments instantly as people ask for more information 
 ### Jokes and Memes
 
 [TODO: Really the only jokes I have a problem with are reposted jokes, but I want to see what the community thinks here.]
+
+## Comments/Threads
+Productive conversations are great. However, when a post or comment exists soley to incite a flamewar, it has incited a flamewar, or it is likely to cause more unproductive responses than is to be expected, it should be dealt with. An admin should first warn the user(s), absent clear personal attacks. If the user(s) do not bring the discussion to an acceptable level (would you have the same discussion in a public place?), the thread should be locked. If the user(s) are correctly using Facebook's reply feature, only specific threads under a post should be locked. This does not apply to posts relating to moderation decisions; admins should not close threads relating to moderation actions unless they are turning into personal attacks or the discussion is being redirected to Meta or IRC.
+
+Comments that specifically violate Facebook's policies, like posts, will be deleted.
+
+### Good
+* "This decision seems a bit shortsighted. It doesn't factor in x, x, or z. It also prevents a, which is fairly widespread, from functioning."
+
+### Bad
+* "This project was evidently made by incompetent people. No ES2019?!?"
+  * Critiquing architecure/coding decisions is fine. Insulting people because of it is not.
