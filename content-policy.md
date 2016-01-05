@@ -20,7 +20,7 @@ If a post doesn’t follow the rules, an admin will lock it. If an admin judges 
 
 ## What makes a post great for HX?
 
-Keep in mind we'll moderate comments differently from posts; see the comment policy at the end.
+Note that just because a post is good, doesn’t mean a thread is good. If a thread devolves into a flamewar, it might be deleted or locked. Also note that reposting an on-topic post makes it a bad post and violates this content policy.
 
 ### Announcements, hackathons, news
 
