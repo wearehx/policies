@@ -4,6 +4,8 @@
 
 This posts documents how the HX group will be run and administered. The policies in this document of a common theme of accountability and transparency. We believe that posts should only be deleted under certain circumstances, and all logs of what the admins are doing and discussing should be public.
 
+Note that any situations not addressed by this document is left up to the judgement of the current admins. In these cases, this policy should be amended to address these situations as soon as possible.
+
 ## 2. Policy Change Approval Process
 
 1. The process for changes to this repo should start with either a GitHub issue, a post in HX Meta, or a conversation with an admin in `##hx-admin`.
