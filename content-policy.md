@@ -1,6 +1,6 @@
 # HX Content Policy
 
-## Introduction
+## 1. Introduction
 
 This document describes the types of content that is acceptable in the [Hackers](https://www.facebook.com/groups/wearehx/) Facebook group. Hackers (HX) is a bit different from other Facebook groups, so we'd appreciate it if you'd take a minute to read this.
 
@@ -18,46 +18,23 @@ When having discussions, remember to respect each other and take the opinion of 
 
 If a post doesn’t follow the rules, an admin will lock it. If an admin judges your repeated behavior to be intentionally against the rules, you may be banned. We’ll delete posts that break Facebook’s guidelines. See the Administration Policy document for more details.
 
-## What makes a post great for HX?
+## 2. What makes a post great for HX?
 
 Note that just because a post is good, doesn’t mean a thread is good. If a thread devolves into a flamewar, it might be deleted or locked. Also note that reposting an on-topic post makes it a bad post and violates this content policy.
 
-### Announcements, hackathons, news
+### 1. Announcements, hackathons, news
 
-- "Hey everyone, register for HackBCA!"
-- "Who’s going to PennApps?" or "Anyone going to the Thiel Summit in SF?"
+Announcements and questions (like "who's going to $x") about hackathons and events are great.
 
-Please be sure to do a search before doing these types of posts.
-
-### Discussions on technologies, tools, or hacker culture
+### 2. Discussions on technologies, tools, or hacker culture
 
 Intelligent, constructive discussion about technology is awesome, as long as it is just that — not a flamewar. Please do a search before posting to see if similar discussions have already happened. If the discussion has already happened, please post your thoughts on the original thread. Otherwise, go ahead and make the new post.
-
-- "Does anyone know how I can get an AP computer science class at my high school?"
-- "I just read 'Learning C the Hard Way' and it gave me a unique perspective on ___________.  I’d recommend getting a copy if you ____________.""
--- Gives advice rather than asking whether X is good or bad.
-- "Hmm, I just received a DMCA takedown request for content in one of my GitHub repos. Anyone have experience dealing with these before?"
-Even if this has been discussed in the past, it’s always great to have an up-to-date discussion on issues like this.
-- "Saw this neat article about a band that released an album as a Linux Kernel!" http://m.networkworld.com/community/blog/band-releases-album-linux-kernel-module
-- "For those of you who haven’t seen this before, someone just ported "power mode" over to Atom! https://atom.io/packages/activate-power-mode"
-- "I don’t like how MLH handled this issue at a hackathon."
-- "Anyone else in this group a double major?" or "Hey everyone, my name is X and I just joined to group. Glad to be here!"
-  - These posts are categorized as "social posts", and are off topic for this group. ##hx on IRC is a better place for social posts.
 
 Note that discussions about the way the group is being run should be posted in HX Meta. Please be civil with your comments.
 
 ### Celebrating personal projects, start-ups
 
-If you’ve got a hack or project you want to show off, AWESOME!
-
-"Thanks so much to all you guys who helped me with the launch of 4 Snaps and who downloaded my game today on the first day! The app is now #1 in the US Top Word Games chart and 105 Overall charts! Thanks so much guys!!!!"
-
-"Congrats to my friend Ryan for a great interview on Android Authority! Definitely a source of inspiration for all high schoolers looking into Computer Science!"
--- Awesome! Sharing press articles about fellow Hackers is definitely encouraged!
-- "So my friends (Harvard drop outs) built Fiveprep. It's a tool to help you study APUSH (pretty much quizup for apush). I know the test is coming up in less than a week so I hope you all get 5s! http://fiveprep.com/"
--- This is is a technological tool for high schoolers. Awesome.
-"Hey guys! On 5/14/14 Alex, Paul, Aakash and myself will be releasing the private beta of HackerBracket, a community for sharing hacks through video presentations. Video encoding + our hosting becomes pretty expensive at a base price of $50/month. I would really appreciate it if you support us by pre-ordering an early pro account for $10/year. Get it here: https://gumroad.com/l/hackerbracket"
--- This was asked nicely, prices were disclosed up front, and it was made by community members. No harm here.
+If you’ve got a hack or project you want to show off, awesome! 
 
 ### What makes a post bad?
 
