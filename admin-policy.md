@@ -79,5 +79,5 @@ All other content that violates the content policy will be closed. The reason fo
 
 ## 10. GitHub
 
-1. Anyone can be given read access to our GitHub organization `wearehx`. The current administration team is always given Owner access on the organization. Other users should retain their previous privileges, but the current administration team has the final say and can make modifications as needed.
+1. Anyone can be given read access to our GitHub organization `wearehx`. The current administration team is always given Owner access on the organization. Other users, such as previous admins, should be removed as owners. The organization owners can than create teams to give other users read or read/write access to specific repos.
 2. Projects must be approved by anyone with Owner access and will be given a team on the organization, if needed. Projects must have a `CONTRIBUTING.md` and `README.md` file to document what the project is and how to contribute. Incomplete projects should be removed after a reasonable amount of time; inactive projects should be removed only if the repository serves no purpose to anyone, even outside the group. Ideally, these projects should be transferred to their original owner's GitHub account as opposed to being deleted.
