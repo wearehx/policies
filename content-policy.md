@@ -6,17 +6,13 @@ This document describes the types of content that is acceptable in the [Hackers]
 
 TL;DR: Be civil, and keep posts relevant to hacking: creating and building new things, discussing things related to hacking, and celebrating hacker culture. Use the search bar first.
 
-HX is an experiment. As a common trend, a community site that becomes popular will decline in quality. Our hypothesis is that by making a conscious effort to resist decline, we can prevent Hackers from falling into this trend.  We don't know whether this hypothesis is correct, but it has held up for a surprisingly long time already.
+The most important principle on HX is to be thoughtful - civil and substantial. Essentially there are two rules here: don't post crap, and don't be rude. Both types of posts will be closed swiftly, and if you continue to post them, you might be banned from the group.
 
-The most important principle on HX is to be thoughtful - civil and substantial.  Essentially there are two rules here: don't post crap, and don't be rude. Both types of posts will be closed swiftly, and if you continue to post them, you might be banned from the group.
+A crap post is one that does not genuinely add value to the community. Keep in mind that your post may show up in the feed of thousands of other members.  Posts on HX don’t have to be about hackathons, because good hackers aren’t only interested in hacking, but they do have to be something hackers would enjoy or find interesting.
 
-An insightful comment can point out some consideration that hadn't previously been mentioned, perhaps from personal experience.  There's also nothing wrong with submitting a comment saying just "Thanks" if you believe it would be more polite than simply liking the post/comment.  That said, what we especially discourage are comments that are empty and negative: name-calling, derailing the conversation, spam, etc.
+When having discussions, remember to respect each other and take the opinion of the other side into account instead of name-calling or insulting the other person. Potentially heated conversations or arguments about an opinion or idea are allowed, so long as they stay about the opinion or idea and not the participants. It is okay to be offended, but it is not okay to be purposefully offensive. We give everyone the same level of respect.
 
-A crap post is one that does not genuinely add value to the community. Keep in mind that your post may show up in the feed of thousands of other members.  Posts on HX don’t have to be about hackathons, because good hackers aren’t only interested in hacking, but they do have to be something Hackers would enjoy or find interesting.
-
-When having discussions, remember to respect each other and take the opinion of the other side  into account instead of name-calling or insulting the other person. It is okay to be offended, but it is not okay to be purposefully offensive.  We give everybody the same level of respect.
-
-If a post doesn’t follow the rules, an admin will lock it. If an admin judges your repeated behavior to be intentionally against the rules, you may be banned. We’ll delete posts that break Facebook’s guidelines. See the Administration Policy document for more details.
+If a post doesn’t follow the rules, an admin will close it. If an admin judges your repeated behavior to be intentionally against the rules, you may be banned. We’ll delete posts that break Facebook’s guidelines. See the Administration Policy document for more details.
 
 ## What makes a post great for HX?
 
@@ -102,4 +98,8 @@ Vague posts pollute their comments instantly as people ask for more information 
 
 ### Jokes and Memes
 
-[TODO: Really the only jokes I have a problem with are reposted jokes, but I want to see what the community thinks here.]
+- Jokes/memes are allowed in comments.
+- A joke/meme as top-level post is only allowed if it is not a repost, if it promotes some type of constructive discussion, or if no discussion is promoted, but the joke has some substance to it (i.e. the joke could otherwise be stated in text and still be on-topic, but is funnier as a joke).
+-- Example of a post that can promote discussion on the social ramifications of VR: http://churchm.ag/wp-content/uploads/2011/12/TheGreatestGift.jpg
+-- Example of a post that will probably not generate much discussion, but is an interesting commentary on an aspect of the software development industry: https://xkcd.com/1629/
+-- Example of a bad post, something that does not have much substance, isn't a repost but similar memes with the same idea have been posted, and is also the beginning of a flame war: http://empleosti.la/blog/wp-content/uploads/2014/11/f42d49b1d619324.jpg
