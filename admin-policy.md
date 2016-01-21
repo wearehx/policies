@@ -22,14 +22,16 @@ Note that any situations not addressed by this document is left up to the judgem
 3. An admin can serve for a maximum of two consecutive terms, but there is no maximum limit on the number of terms an admin can serve for.
 4. All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a GitHub commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public. Ideally, these meetings should occur in the `##hx-admin` IRC channel on Freenode.
 5. It is *highly* recommended that admins idle on `##hx-admin` so that the community can easily have a short discussion or ask questions directly to the admins in a public area, without polluting the main HX group. HX Meta is also alright for this purpose, but an IRC conversation can often provide immediate feedback.
-6. Admins are not allowed to deactivate their Facebook accounts during their term. Doing so is cause for removal as an admin.
+6. Admins are not allowed to deactivate their Facebook accounts during their term. Doing so is cause for removal as an admin, and disqualifies the admin from running as an admin in the future.
 
 ## 4. Election of Admins
 
 1. The current admin team will determine how many admins are elected for the next term. 
 2. 14 days before the end of a term, the web interface will allow candidates to mark themselves as running. 
-  - Candidates must be nominated by three group members via the web interface (after they have marked themselves as running) to be put on the ballot. Each group member can nominate one member per term.
-3. 7 days before the end of a term, the web interface will allow group members to vote for a candidate. 
+  - A group member must have at least two nominations in order to mark themselves as running and be put on the ballot.
+  - Each group member has as many nominations as there are admins being elected for the upcoming term. It is not required to use all of these nominations, but a group member cannot use more than one nomination on any particular group member.
+3. 7 days before the end of a term, the web interface will allow group members to vote for the candidates.
+  - Each group member has as many votes as there are admins being elected for the upcoming term. It is not required to use all of these votes, but a group member cannot use more than one vote on any particular candidate.
 4. Votes will stop being accepted after 11:59PM GMT on the day the term ends. The current admins will use the voting result to add/remove themselves, if needed.
 5. The voting system will publish a freely downloadable list of UUIDs and their vote after votes stop being accepted.
 6. The election dates for each year will be January 4th, April 4th, July 4th, and October 4th.
@@ -49,7 +51,9 @@ Note that any situations not addressed by this document is left up to the judgem
 
 ## 6. Removal of Admins
 
-1. Administrators may be removed by an unanimous vote among the other current admins. The current administrators may choose to hold a temporary election or wait until the next election if an administrator is voted out. 
+1. Administrators may be removed by an unanimous vote among the other current admins. Whether or not this disqualifies an admin from running in a future election is up to the other current admins.
+2. Admins may also choose to resign at any point in time. However, this disqualifies the admin from running in a future election.
+3. The current administrators may choose to hold a temporary election or wait until the next election if an administrator is removed.
 
 ## 7. Purpose of Administration
 
