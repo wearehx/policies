@@ -57,6 +57,7 @@ If you’ve got a hack or project you want to show off, AWESOME!
 
 ### What makes a post bad?
 
+- Meta posts, or posts about the group and how it's being run should be posted in [HX Meta](https://www.facebook.com/groups/hxmeta), and not in the main group. One reason for this is while the main HX group may contain too many posts to leave notifications on, anyone interested in discussing administrative matters can leave notifications on for HX Meta and be notified of any important discussions.
 - Don’t post irrelevant things or spam: "Can you help me hack someone’s account?"
 -- Absolutely not. We’re not those kinds of hackers.
 - "Hey!  I just heard about this new service called Amazon Prime, you can get it for free with your University email address: http://example.com/referral/aIn9xP/"
