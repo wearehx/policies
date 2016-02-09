@@ -36,7 +36,7 @@ Note that discussions about the way the group is being run should be posted in H
 
 If you’ve got a hack or project you want to show off, awesome! 
 
-### What makes a post bad?
+## 3. What makes a post bad?
 
 Don’t post irrelevant things or spam. Don't use HX to try and conduct illegal activity, get free things, or post your referral link. Politics are on topic, but *only* if it is related to tech. For example, if a politician makes racist comments, that is off-topic for this group. While topics like that are important to discuss, there are many other outlets for it to be discussed. A group for hacking and tech related topics is not one of them. 
 
