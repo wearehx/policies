@@ -38,45 +38,20 @@ If you’ve got a hack or project you want to show off, awesome!
 
 ### What makes a post bad?
 
-- Don’t post irrelevant things or spam: "Can you help me hack someone’s account?"
--- Absolutely not. We’re not those kinds of hackers.
-- "Hey!  I just heard about this new service called Amazon Prime, you can get it for free with your University email address: http://example.com/referral/aIn9xP/"
--- If your motivation for sharing a service with us is to get money or points, it’s spam and you will be warned not to try it again.
-- "Does someone have a free Namecheap coupon?"
--- Ask in HS Offers. 90% of the time the there is already an existing subgroup for what you're looking for.
-- "Where can I download the latest episode of Silicon Valley for free?"
--- Copyright infringement is unwanted in this group.
-- "Can someone recommend me a good pair of headphone?"
--- No.
-- "Hi! I just got an offer from two different companies and here’s my really specific situation and what should I do?"
-  - Ask in [TODO: there’s a group for this, right?]
-- Politics is on topic, but *only* if it is related to tech. For example, if a politician makes racist comments, that is off-topic for this group. While topics like that are important to discuss, there are many other outlets for it to be discussed. A group for hacking and tech related topics is not one of them. An example of an on-topic post about politics would be: "There’s a vote on this net neutrality law tonight. Here’s an article explaining what’s going on".
+Don’t post irrelevant things or spam. Don't use HX to try and conduct illegal activity, get free things, or post your referral link. Politics are on topic, but *only* if it is related to tech. For example, if a politician makes racist comments, that is off-topic for this group. While topics like that are important to discuss, there are many other outlets for it to be discussed. A group for hacking and tech related topics is not one of them. 
 
 ### Don’t use HX as a Tech Support Forum
 
-Don’t post something that is readily available online. HX is not a tech support forum, nor is it the place to go if StackOverflow gives you a negative rating.  There are specific subgroups for most technical topics. Also, nobody else wants any of the following questions in their Facebook feed:
-- "How do I use GitHub Pages?"
-- "Can anyone help me with some JavaScript errors I’m getting? Thanks!"
-- "Has anyone used the Twitter API before? IM me!"
+Don’t post something that is readily available online. HX is not a tech support forum, nor is it the place to go if StackOverflow gives you a negative rating.  There are specific subgroups for most technical topics. Nobody wants a bunch of questions on their Facebook feed.
 
 ### Don’t forget about the search bar.
 
-Any of the following posts are either readily answerable through Google or searching older posts.
-- Has anyone ever done a phone interview with Google before?
-- What should I use for basic hosting?
--- Static sites (HTML/CSS/JS only): If your site is static, then you should use Github Pages. Here is a guide on how to set that up: https://pages.github.com/ This option is free.
--- Dynamic Sites: People typically use Heroku for quick setup for dynamic sites.
-- What should I use for domain registration?
--- For paid domain registration, Namecheap is a nice deal. Domain.com usually gives out free domains at MLH-backed events.
+Posts that can easily be found on Google, Yahoo, Bing, or AltaVista shouldn't be asked. 
 
 ### Don’t make overly vague/unhelpful posts
 
-Vague posts pollute their comments instantly as people ask for more information that should have been in the original post. Include everything you would ask if you saw your post asked by someone else.
-- "Anyone interested in helping me with a new startup, IM me!"
--- What startup? What is your idea? What is the position? What is the location? What is the technology? What qualities are you looking for? Why should someone help you? What do you get out of it? Who’s involved? (You probably shouldn’t keep these secret either. See: http://www.paulgraham.com/ideas.html)
-- "Thoughts?" + attached link
--- Start off the discussion with your own thoughts! Please provide more specific information on how it relates to HX.
+Vague posts pollute their comments instantly as people ask for more information that should have been in the original post. Include everything you would ask if you saw your post asked by someone else. If you're posing a question, try to respond to it yourself. If you need help, say what you've already tried. More importantly, make sure your question is evident: don't make people guess as to the meaning of your post.
 
 ### Jokes and Memes
 
-[TODO: Really the only jokes I have a problem with are reposted jokes, but I want to see what the community thinks here.]
+Jokes in posts are fine so long as the same one isn't posted every day. Comments are largely unmoderated in this regard; repost away.
