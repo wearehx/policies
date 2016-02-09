@@ -4,7 +4,7 @@
 
 This document describes the types of content that is acceptable in the [Hackers](https://www.facebook.com/groups/wearehx/) Facebook group. Hackers (HX) is a bit different from other Facebook groups, so we'd appreciate it if you'd take a minute to read this.
 
-TL;DR: Be civil, and keep posts relevant to hacking: creating and building new things, discussing things related to hacking, and celebrating hacker culture. Use the search bar first.
+**Be civil, and keep posts relevant to hacking**: creating and building new things, discussing things related to hacking, and celebrating hacker culture.
 
 HX is an experiment. As a common trend, a community site that becomes popular will decline in quality. Our hypothesis is that by making a conscious effort to resist decline, we can prevent Hackers from falling into this trend.  We don't know whether this hypothesis is correct, but it has held up for a surprisingly long time already.
 
@@ -16,11 +16,11 @@ A crap post is one that does not genuinely add value to the community. Keep in m
 
 When having discussions, remember to respect each other and take the opinion of the other side  into account instead of name-calling or insulting the other person. It is okay to be offended, but it is not okay to be purposefully offensive.  We give everybody the same level of respect.
 
-If a post doesn’t follow the rules, an admin will lock it. If an admin judges your repeated behavior to be intentionally against the rules, you may be banned. We’ll delete posts that break Facebook’s guidelines. See the Administration Policy document for more details.
+If a post doesn’t follow the rules, an admin will close it. If an admin judges your repeated behavior to be intentionally against the rules, you may be banned. We’ll delete posts that break Facebook’s guidelines. See the Administration Policy document for more details.
 
 ## 2. What makes a post great for HX?
 
-Note that just because a post is good, doesn’t mean a thread is good. If a thread devolves into a flamewar, it might be deleted or locked. Also note that reposting an on-topic post makes it a bad post and violates this content policy.
+Note that just because a post is good, doesn’t mean a thread is good. If a thread devolves into a flamewar, it might be deleted or locked. Reposting a post that has already had good discussion will result in it being locked and the old one linked to.
 
 ### 1. Announcements, hackathons, news
 
