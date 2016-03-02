@@ -22,18 +22,18 @@ If a post doesn't follow our policies, an admin will close it. If an admin judge
 
 Don't post irrelevant things or spam. Don't use HX to try and conduct illegal activity, get free things, or post your referral link. Politics are on topic, but *only* if it is related to tech. For example, if a politician makes racist comments, that is off-topic for this group. While topics like that are important to discuss, there are many other outlets for it to be discussed. A group for hacking and tech related topics is not one of them. 
 
-### 3.1 Don't use HX as tech support.
+### 2.1 Don't use HX as tech support.
 
 Don't post something that is readily available online. HX is not a tech support forum, nor is it the place to go if StackOverflow gives you a negative rating. There are specific subgroups for most technical topics. Nobody wants a bunch of questions on their Facebook feed.
 
-### 3.2 Don't forget about the search bar.
+### 2.2 Don't forget about the search bar.
 
 Questions that could easily be found on Google, Yahoo, Bing, or AltaVista shouldn't be asked on HX. 
 
-### 3.3 Don't make overly vague/unhelpful posts.
+### 2.3 Don't make overly vague/unhelpful posts.
 
 Vague posts pollute their comments instantly as people ask for more information that should have been in the original post. Include everything you would ask if you saw your post asked by someone else. If you're posing a question, try to respond to it yourself. If you need help, say what you've already tried. More importantly, make sure your question is evident: don't make people guess as to the meaning of your post.
 
-### 3.4 Don't flood HX with memes.
+### 2.4 Don't flood HX with memes.
 
 Posts in HX (not Meta) can contain jokes and memes so long as it hasn't been recently posted. Comments can also contain jokes or memes without restriction.
