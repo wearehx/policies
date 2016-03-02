@@ -36,4 +36,4 @@ Vague posts pollute their comments instantly as people ask for more information 
 
 ### 2.4 Don't flood HX with memes.
 
-Posts in HX (not Meta) can contain jokes and memes so long as it hasn't been recently posted. Comments can also contain jokes or memes without restriction.
+Jokes/memes are allowed in comments. A joke/meme as top-level post is only allowed if it is not a repost, if it promotes some type of constructive discussion, or if no discussion is promoted, but the joke has some substance to it (i.e. the joke could otherwise be stated in text and still be on-topic, but is funnier as a joke).
