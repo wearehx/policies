@@ -18,7 +18,7 @@ Note that any situations not addressed by this document is left up to the judgem
 ## 3. Management of Administration
 
 1. We will increase the number of admins per term as the current admin team sees fit. A general indicator of how many admins are needed is to see how long it takes posts to be moderated. If all bad posts are caught within some small amount of time (i.e. 30 minutes) of posting, then we have enough admins.
-2. The length of a term for an admin will be 3 months.
+2. The length of a term for an admin will be 6 months.
 3. An admin can serve for a maximum of two consecutive terms, but there is no maximum limit on the number of terms an admin can serve for.
 4. All admin activity will be public. In the case of bans, see the ban policy later in this document. For larger, more official meetings, either the entire chat log will be posted (possibly as a GitHub commit or a gist), or paraphrased meeting minutes. Small, one-off conversations/meetings do not need to be public. Ideally, these meetings should occur in the `##hx-admin` IRC channel on Freenode.
 5. It is *highly* recommended that admins idle on `##hx-admin` so that the community can easily have a short discussion or ask questions directly to the admins in a public area, without polluting the main HX group. HX Meta is also alright for this purpose, but an IRC conversation can often provide immediate feedback.
