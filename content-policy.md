@@ -22,6 +22,8 @@ If a post doesn't follow our policies, an admin will close it. If an admin judge
 
 Don't post irrelevant things or spam. Don't use HX to try and conduct illegal activity, get free things, or post your referral link. Politics are on topic, but *only* if it is related to tech. For example, if a politician makes racist comments, that is off-topic for this group. While topics like that are important to discuss, there are many other outlets for it to be discussed. A group for hacking and tech related topics is not one of them. 
 
+If the admins believe your post should be removed and the content policy does not cover its removal, they may do so. If this type of post is likely to occur again, the policy should be amended to prohibit it.
+
 ### 2.1 Don't use HX as tech support.
 
 Don't post something that is readily available online. HX is not a tech support forum, nor is it the place to go if StackOverflow gives you a negative rating. There are specific subgroups for most technical topics. Nobody wants a bunch of questions on their Facebook feed.
