@@ -34,7 +34,7 @@ Note that any situations not addressed by this document is left up to the judgem
   - Each group member has as many votes as there are admins being elected for the upcoming term. It is not required to use all of these votes, but a group member cannot use more than one vote on any particular candidate.
 4. Votes will stop being accepted after 11:59PM GMT on the day the term ends. The current admins will use the voting result to add/remove themselves, if needed.
 5. The voting system will publish a freely downloadable list of UUIDs and their vote after votes stop being accepted.
-6. The election dates for each year will be January 4th, April 4th, July 4th, and October 4th.
+6. The term start dates for every year are April 4th and October 4th.
 
 ### 5. Voting
 
